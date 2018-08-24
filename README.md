@@ -8,10 +8,15 @@ create table using customer.sql
 set your database detail in .env fle
 
 PORT=8081
+
 DBHOST=localhost
+
 DBNAME=customer
-DBPWD=
+
+DBPWD=123456
+
 DBUSER=root
+
 DBPORT=3306
 
 npm start
