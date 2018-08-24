@@ -1,10 +1,10 @@
 # Node MySQL CRUD Demo with Stored Procedure
 
-npm install
+### npm install
 
-##create table using customer.sql
+## create table using customer.sql
 
-##set your database detail in .env fle
+## set your database detail in .env fle
 
 PORT=8081
 
@@ -18,9 +18,9 @@ DBUSER=root
 
 DBPORT=3306
 
-npm start
+### npm start
 
-##DIfferent API Route
+## DIfferent API Route
 
 Get All Customer
 GET - http://localhost:8081/api/user
