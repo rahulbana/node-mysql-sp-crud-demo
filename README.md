@@ -5,6 +5,15 @@ npm install
 
 create table using customer.sql
 
+set your database detail in .env fle
+
+PORT=8081
+DBHOST=localhost
+DBNAME=customer
+DBPWD=
+DBUSER=root
+DBPORT=3306
+
 npm start
 
 DIfferent API Route
